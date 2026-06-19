@@ -1,7 +1,7 @@
-fastapi==0.111.0
-uvicorn==0.29.0
-PyJWT==2.8.0
-python-decouple==3.8
-pydantic[email]==2.0.0
-sqlalchemy==2.0.50
-bcrypt==5.0.0
+fastapi
+uvicorn
+PyJWT
+python-decouple
+pydantic[email]
+sqlalchemy
+bcrypt
